@@ -1,5 +1,5 @@
-import ../src/handevaluator
 import unittest
+import pokereval
 
 const
   HandCategoryOffset: int = 0x1000 # 4096

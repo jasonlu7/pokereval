@@ -1,7 +1,7 @@
 const
   RecalculatePerfHashOffsets = false
 
-import ./hand, ./perfhashoffsets
+import pokereval/hand, pokereval/perfhashoffsets
 export hand
 
 when RecalculatePerfHashOffsets:
