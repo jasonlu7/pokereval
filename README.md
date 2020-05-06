@@ -7,6 +7,11 @@ It evaluates hands with 0 to 7 cards (hands with less than 5 cards are filled in
 The evaluator gives a hand an integer ranking; higher rankings correspond to better hands.
 The ranking divided by 4096 also gives the hand category (e.g. high card, flush).
 
+## Installation
+```
+nimble install pokereval
+```
+
 ## Usage
 
 ```nim
